@@ -1,0 +1,13 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "scripts": {
+    "startLinux": "NODE_PATH=. node task4.js",
+    "startWindow": "set NODE_PATH=.&& node task4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
